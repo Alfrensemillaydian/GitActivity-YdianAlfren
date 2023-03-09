@@ -15,3 +15,7 @@ print("College: Maarindue State College")
 print("Course: Bachelor of Science in Information Technology")
 print("Year: 2nd year")
 print("Section: C ")
+
+# Display myhobbies
+print("heavy Lifting")
+print("CODM fps game")
